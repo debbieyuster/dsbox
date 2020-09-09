@@ -14,3 +14,6 @@ rsconnect/
 ^inst/tutorials/.*files$
 ^inst/tutorials/deploy.R$
 man/figures/dsbox-fullsize.png
+^dsbox\.Rcheck$
+^dsbox.*\.tar\.gz$
+^dsbox.*\.tgz$

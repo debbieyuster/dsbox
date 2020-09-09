@@ -17,3 +17,6 @@ docs
 
 # full size logo
 man/figures/dsbox-fullsize.png
+dsbox.Rcheck/
+dsbox*.tar.gz
+dsbox*.tgz
